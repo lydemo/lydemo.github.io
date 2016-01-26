@@ -7,7 +7,7 @@ tags: [tags for the post, is here]
 summary: Here is a summary of the post
 image: /images/blog/blogging-again.png
 ---
-The following question is interesting,since I have never found similar question in Zhihu,it is a question about Evan Spiegel,one of the richest man born in 1990s,in Quora:
+The following question is interesting,since I have never found similar question in Zhihu,it is a question about Evan Spiegel,one of the richest man born in 1990,in Quora:
 
 ### Q:Why does Evan Spiegel own snapchat if he doesn't know programming?
 
