@@ -2,7 +2,7 @@
 layout: post
 title:  "About Evan Spiegel"
 date:   2016-01-21 
-categories: Collections
+categories: blog
 tags: [tags for the post, is here]  
 summary: Here is a summary of the post
 image: /images/blog/blogging-again.png
