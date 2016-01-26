@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "About Evan Spiegel"
+layout: blog
+title:  About Evan Spiegel
 date:   2016-01-21 
 categories: blog
 tags: [tags for the post, is here]  
